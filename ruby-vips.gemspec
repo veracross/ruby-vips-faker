@@ -11,5 +11,5 @@ Gem::Specification.new do |s|
   s.homepage    = 'http://github.com/veracross/ruby-vips-faker'
   s.license     = 'MIT'
 
-  s.files       = []
+  s.files       = ['lib/vips.rb']
 end
