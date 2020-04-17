@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'ruby-vips'
-  s.version     = '0.3.9'
+  s.version     = '0.3.14'
   s.date        = '2013-11-04'
 
   s.summary     = "A gem to fake ruby-vips on OS X"
